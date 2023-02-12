@@ -1,7 +1,7 @@
 function App() {
   return (
-    <div className="App">
-     <div>inits</div>
+    <div className="border border-red-500">
+      <div>inits</div>
     </div>
   );
 }
