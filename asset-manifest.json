@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/exigence/static/css/main.17c7e5ba.css",
+    "main.js": "/exigence/static/js/main.603050fc.js",
+    "index.html": "/exigence/index.html",
+    "main.17c7e5ba.css.map": "/exigence/static/css/main.17c7e5ba.css.map",
+    "main.603050fc.js.map": "/exigence/static/js/main.603050fc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17c7e5ba.css",
+    "static/js/main.603050fc.js"
+  ]
+}
